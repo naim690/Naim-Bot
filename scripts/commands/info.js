@@ -38,7 +38,7 @@ var callback = () => api.sendMessage({body:`
 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 : 𝐌𝐚𝐫𝐫𝐢𝐞𝐝
 𝐖𝐨𝐫𝐤        : 𝐒𝐭𝐮𝐝𝐞𝐧𝐭
 𝐆𝐦𝐚𝐢𝐥       : alamnaim558@gmail.com
-𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: wa.me/01306703317
+𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: wa.me/+8801306703317
 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  : t.me/naim_rahman_1
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤 : https://www.facebook.com/your.daddy.naim.here`,attachment: fs.createReadStream(__dirname + "/cache/1.png")}, event.threadID, () => 
     fs.unlinkSync(__dirname + "/cache/1.png"));  
