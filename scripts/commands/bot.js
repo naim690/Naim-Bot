@@ -1,7 +1,7 @@
 const axios = require("axios");
  
 module.exports.config = { 
-  name: "naim",
+  name: "Bot",
 	version: "0.0.2",
 	permission: 0,
   prefix: false,
